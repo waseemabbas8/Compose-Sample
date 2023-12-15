@@ -24,4 +24,4 @@ Waseem Abbas
 
 Sr. Mobile Software Engineer (Android | KMP | Flutter) 
 
-[waseemabbas.com](waseemabbas.com)
+[waseemabbas.com](https://waseemabbas.com)

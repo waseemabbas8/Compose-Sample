@@ -1,5 +1,8 @@
 # Jetpack Compose Android Sample
 This repository is a sample project showcasing the capabilities of Jetpack Compose, the modern Android UI toolkit. Explore and learn the fundamentals of declarative UI development with this hands-on example.
+|Login| Home | Drug Detail |
+|--|--|--|
+| ![Alt text](/screenshots/login.webp?raw=true) | ![Alt text](/screenshots/home.webp?raw=true) | ![Alt text](/screenshots/drug_detail.webp?raw=true)
 ## Dependencies
 |Tool| Descriptioin |
 |--|--|

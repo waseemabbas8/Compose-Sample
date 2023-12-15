@@ -1,0 +1,1 @@
+/Users/waseemabbas/StudioProjects/Sample/buildSrc/build/classes/kotlin/main/Dependencies$Ktor.class:/Users/waseemabbas/StudioProjects/Sample/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/waseemabbas/StudioProjects/Sample/buildSrc/build/classes/kotlin/main/Versions.class

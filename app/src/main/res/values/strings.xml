@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="hint_email">your@email.com</string>
+    <string name="password">password</string>
+    <string name="login_success">Login Success</string>
+    <string name="retry_login">Retry Login</string>
+    <string name="login">Login</string>
+</resources>
